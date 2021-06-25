@@ -1,6 +1,7 @@
 # my-midway-project
 
 ## QuickStart
+参考https://www.midwayjs.org/doc/cloud/consul编写的一个demo，可以说代码编写逻辑和spring很接近
 
 <!-- add docs here for user -->
 
@@ -28,3 +29,4 @@ $ npm stop
 
 
 [midway]: https://midwayjs.org
+
